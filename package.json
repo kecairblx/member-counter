@@ -1,0 +1,15 @@
+{
+  "name": "member-counter",
+  "description": "Sends Roblox group member count updates to a Discord channel",
+  "version": "1.0.0",
+  "author": "joritochip",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}

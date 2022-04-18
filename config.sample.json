@@ -1,0 +1,14 @@
+{
+    "botToken": "",
+    "groupId": 4594985,
+    "channelId": "820040433459396638",
+    "intervals": {
+        "message": 60000,
+        "step": 5000,
+        "goal": 50000
+    },
+    "embed": {
+        "color": 16777215,
+        "template": ":pineapple: Kecai now has **{0} members**!\n> **{1}** more members until we reach our goal of **{2}**!"
+    }
+}
